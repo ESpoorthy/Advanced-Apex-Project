@@ -24,6 +24,7 @@ P3
 **Manufacturing: Autonomous Maintenance Assistant Pipeline**
 
 **Problem Statement Description** 
+
 Manufacturing plants collect sensor readings, production line states, operator notes, and maintenance records from machines. Your task is to build a data pipeline that prepares this raw data for an autonomous maintenance assistant. The dataset will contain timestamp gaps, noisy spikes, missing sensor readings, inconsistent machine identifiers, and uneven sampling rates. The goal is to create a clean time aligned feature table that helps identify early patterns before maintenance events or machine faults.
 
 **Brief Description**
