@@ -39,6 +39,7 @@ This project develops a robust preprocessing pipeline that transforms raw indust
 **Primary Dataset**
 
 NASA Commercial Modular Aero-Propulsion System Simulation (CMAPSS)
+https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
 
 Dataset Used:
 
