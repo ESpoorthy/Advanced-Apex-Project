@@ -21,12 +21,12 @@ Rather than training a machine learning model, the objective is to prepare high-
 ## Problem Statement
 P3
 
-Manufacturing: Autonomous Maintenance Assistant Pipeline
+**Manufacturing: Autonomous Maintenance Assistant Pipeline**
 
-Problem Statement Description 
+**Problem Statement Description** 
 Manufacturing plants collect sensor readings, production line states, operator notes, and maintenance records from machines. Your task is to build a data pipeline that prepares this raw data for an autonomous maintenance assistant. The dataset will contain timestamp gaps, noisy spikes, missing sensor readings, inconsistent machine identifiers, and uneven sampling rates. The goal is to create a clean time aligned feature table that helps identify early patterns before maintenance events or machine faults.
 
-Brief Description
+**Brief Description**
 
 • Ingest machine sensor logs, production line status data, and maintenance records.
 
@@ -62,7 +62,7 @@ Brief Description
 
 So, Manufacturing plants continuously generate sensor readings, production states and maintenance records from industrial equipment.
 
-Raw manufacturing data often contains:
+**Raw manufacturing data often contains:**
 
 - Missing observations
 - Noisy sensor measurements
